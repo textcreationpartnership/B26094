@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Albion's congratulatory, or, A poem upon the high and mighty Prince James, Duke of Albany and York, his return unto Scotland presented to His Royal Highness by M.L.</title>
+            <author>M. L. (Michael Livingston), 17th cent.</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26094</idno><idno type="EEBO-CITATION">24020952</idno>
+  <idno type="VID">205676</idno>
+  <idno type="EEBO-PROQUEST">2240856433</idno>
+  
+            <idno type="STC">Wing L2600</idno>
+            <idno type="OCLC">24020952</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1705:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Albion's congratulatory, or, A poem upon the high and mighty Prince James, Duke of Albany and York, his return unto Scotland presented to His Royal Highness by M.L.</title>
+                  <author>M. L. (Michael Livingston), 17th cent.</author>
+               </titleStmt>
+               <extent>[6], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed by Wing to Michael Livingston.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205676:1"/>
+            <p>ALBION'S Congratulatory; OR, A POEM, Upon the High and Mighty <hi>PRINCE</hi> JAMES Duke of <hi>ALBANY</hi> and <hi>YORK,</hi> His Return unto SCOTLAND.</p>
+            <p>Presented to His Royal HIGHNESS, By <hi>M. L.</hi>
+            </p>
+            <q>
+               <l>ALBANI expectant reditus; illoque reverso,</l>
+               <l>Certatim ingenti celebrant nova gaudia plausu.</l>
+            </q>
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred MAJESTY, Anno <hi>DOM.</hi> 1680.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:205676:2"/>
+            <pb facs="tcp:205676:2"/>
+            <head>TO His Royal Highness.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis is the fourth time, that I have <hi>ad<g ref="char:EOLhyphen"/>dressed</hi> Your ROYAL HIGHNESS, I dare not add with <hi>success</hi> and <hi>approbation;</hi> yet, I'm sure, not beyond the circle of my <hi>duty,</hi> nor without a strong <hi>impulse</hi> to admire and applaud the amiable <hi>parts,</hi> and attractive <hi>vertues</hi> so conspi<g ref="char:EOLhyphen"/>cuous in your <hi>Person,</hi> and in every Scene of your Actions, that <hi>Malice</hi> cannot impute it to an insinu<g ref="char:EOLhyphen"/>ating and fawning <hi>humour.</hi> My first <hi>address</hi> got no unkind reception from your favourable <hi>Candour;</hi> but, writing in that <hi>dialect,</hi> being unfashionable in the <hi>British Isle,</hi> and consequent<g ref="char:EOLhyphen"/>ly unseasonable to your HIGHNESS, (having sown the seed of your tender years <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the field of <hi>Mars,</hi> and reap'd the rich increase thereof in ri<g ref="char:EOLhyphen"/>per age) you was pleased to make use of the convey<g ref="char:EOLhyphen"/>ing conduit of a ROYAL and skilful INTER<g ref="char:EOLhyphen"/>PRETESS: I amended the former escape in the second <hi>Address,</hi> by the addition of an accom<g ref="char:EOLhyphen"/>panying
+<pb facs="tcp:205676:3"/>
+               <hi>Guide,</hi> of your own Countrey fashion, tho not breeding; under whose conduct, I could not promise my travelling <hi>Muse</hi> an easie passage, having never appeared on the stage before, in an <hi>English habit.</hi> To the <hi>third</hi> (deckt altogether in your own native dress, and) hastened by your sudden departure, I premised, and repeated this Ʋshering <hi>TETRASTICK;</hi>
+               <q>
+                  <l>Be pleas'd, <hi>Sir,</hi> to accept fruit pluck'd in haste,</l>
+                  <l>Which, if they relish well, you're woo'd to taste;</l>
+                  <l>But if they nauseate, or no <hi>pleasure</hi> yield,</l>
+                  <l>I'l raze the <hi>tree,</hi> and henceforth curse the <hi>field.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>When lo your graceful smiles, and courtly ge<g ref="char:EOLhyphen"/>sture spake a kind <hi>Acceptation,</hi> and encourag'd me to make this <hi>fourth address;</hi> The subject whereof, <hi>viz.</hi> your glad return, was as acceptable to my pensive <hi>Muse,</hi> as the genial <hi>Muses</hi> are welcome to overtravelled Minds; as the Honou<g ref="char:EOLhyphen"/>rable E. of ROSECOMMON (upon <hi>Horace</hi> his Art of <hi>Poetrie</hi>) singeth well;
+<q>
+                  <l>Some have by Verse obtain'd the Love of KINGS,</l>
+                  <l>Who with the <hi>Muses</hi> ease their weari'd minds.</l>
+               </q>
+            </p>
+            <pb facs="tcp:205676:3"/>
+            <p>And albeit this inelaborate Poem should m<gap reason="illegible" resp="#uom" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of that end; and tho the stile be not so loftie, nor the veine so happy, as I could wish, and think wor<g ref="char:EOLhyphen"/>thy wherewith to entertain and present your HIGHNESS; yet, in a homely way, I have given a plain testimony of zealous <hi>Loy<g ref="char:EOLhyphen"/>alty</hi> to my <hi>Sov'raign;</hi> and consequently of du<g ref="char:EOLhyphen"/>tiful respect (if the effects of either were to be noticed in such a mean <hi>Gentleman</hi>) to his <hi>dear</hi> and <hi>only Brother.</hi> Vouchsafe, therefore, ROY<g ref="char:EOLhyphen"/>AL SIR, to accept the humble tender of an obsequious <hi>Muse;</hi> and, in these injurious and tempestuous <hi>times,</hi> daign to shrowd her under the hospitable shade of your <hi>Protection;</hi> or, as the famous abovenamed <hi>Translatour</hi> turn<g ref="char:EOLhyphen"/>eth,
+<q>
+                  <l>Then <hi>Hush</hi> not, <hi>Noble</hi> PISO, to protect,</l>
+                  <l>What <hi>Gods</hi> inspire, and <hi>Kings</hi> delight to hear.</l>
+               </q>
+            </p>
+            <p>Thither <hi>she</hi> gladly flies, and hopes to remain secure, while we are honoured with the calm summer of your gladsome presence here; Where, that <hi>joy</hi> and <hi>safety</hi> may alwayes at<g ref="char:EOLhyphen"/>tend your <hi>person, Love</hi> and <hi>Honour</hi>
+               <pb facs="tcp:205676:4"/> increase your splendour, <hi>Good Fortune</hi> and <hi>Success</hi> crown your <hi>Actions,</hi> shall be the hearty desire and importunate pray<g ref="char:EOLhyphen"/>er of,</p>
+            <closer>
+               <signed>
+                  <hi>Your</hi> ROYAL HIGHNESS Most Faithful and most Humble Servant, <hi>M. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:205676:4"/>
+            <head>ALBION'S Congratulatory; OR, A POEM, Upon the High and Mighty <hi>Prince,</hi> JAMES Duke of <hi>ALBANY</hi> and <hi>YORK,</hi> His Return unto SCOTLAND.</head>
+            <lg>
+               <l>WHat means my silenc'd <hi>Muse</hi> to bend her browes,</l>
+               <l>To look so sharp on't, flighter thus, and rowse;</l>
+               <l>Like hooded <hi>Hawks,</hi> which, when asquint they spie</l>
+               <l>Some transient Fowle, encline anone to flie:</l>
+               <l>Can masked eyes objected pleasure reap,</l>
+               <l>Or news make brats, so long<note n="*" place="margin">
+                     <hi>v. Albion</hi>'s Elegie. <hi>pag.</hi> 9. <hi>l.</hi> 20.</note>
+                  <hi>Entombed,</hi> leap:</l>
+               <l>Strange! have the tidings of the <hi>DƲKE'S</hi> return</l>
+               <l>Pow'r to awake her from the silent urn?</l>
+               <l>'Twere just to <hi>sight</hi> an energie t'impute,</l>
+               <l>Equal with <hi>Orpheus,</hi> or <hi>Amphions</hi> lute;</l>
+               <l>But from's supposed advent <hi>Vertue</hi> flows,</l>
+               <l>To's homeward thoughts her <hi>Resurrection</hi> ows.</l>
+               <l>'Tis like th'impatient <hi>Muse</hi> her self beguiles,</l>
+               <l>Like weari'd Travellers, who reckon miles,</l>
+               <l>By some long-fetched paces, and when gone</l>
+               <l>Scarce half the way, conclude their journey done.</l>
+               <l>Ev'n so my tongue-ti'd <hi>Muse</hi> may judge night past,</l>
+               <l>'Cause found the sad<note n="†" place="margin">
+                     <hi>v: Albion</hi>'s Elegie. <hi>p.</hi> 5. <hi>l.</hi> 12.</note>
+                  <hi>Eclipse</hi> too long to last;</l>
+               <pb n="2" facs="tcp:205676:5"/>
+               <l>And, by the tedious absence of her <hi>Sun,</hi>
+               </l>
+               <l>Compute the night-glass of her <hi>silence</hi> run;</l>
+               <l>Longing for's morning beauty out to peep,</l>
+               <l>And interrupt this <hi>Pythagorick</hi> sleep:</l>
+               <l>Or could my <hi>Muse</hi> such bruit, mistaken, broach?</l>
+               <l>When only influenc'd by his approach;</l>
+               <l>No, no, Verse challengeth a Divine spell,</l>
+               <l>
+                  <note n="‖" place="margin">v. Albion's <hi>Farewell,</hi> p. <hi>5.</hi> l. <hi>12.</hi>
+                  </note>
+                  <hi>He's on the Rod, why did I add, farewell.</hi>
+               </l>
+               <l>For so the <hi>DƲKE</hi> plight, when he took his leave</l>
+               <l>Of ALBION Pale, nor did he us deceive,</l>
+               <l>Like that feign'd Lover, who his test'ment brake,</l>
+               <l>And<note n="*" place="margin">Phillis <hi>to</hi> De<g ref="char:EOLhyphen"/>mophoon. Ovid. Epist. <hi>2.</hi>
+                  </note>
+                  <hi>Phillis</hi> made despair of's coming back.</l>
+               <l>The <hi>DƲKE'S</hi> Arrival hath compleatly pleas'd</l>
+               <l>My frisking <hi>Muse;</hi> like Prisoners releas'd</l>
+               <l>By free Remission, from some obscure Cave</l>
+               <l>After Doom giv'n; or, like a <hi>Galley</hi>-slave</l>
+               <l>Got loose, erewhile, through grating bondage, sad,</l>
+               <l>Now steals away, above all measure glad.</l>
+               <l>In<note n="†" place="margin">Post tristiti<g ref="char:EOLhyphen"/>am gaudium <hi>Sequitur.</hi>
+                  </note>
+                  <hi>Sorrow's</hi> ashes so fresh <hi>Gladness</hi> breeds,</l>
+               <l>To hard<note n="‖" place="margin">
+                     <hi>Flebile</hi> prin<g ref="char:EOLhyphen"/>ciptium me<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ior fortuna sequuta: <hi>Ov.</hi> l. <hi>7. Met.</hi>
+                  </note> beginnings better luck succeeds.</l>
+               <l>My pliant <hi>Muse,</hi> with ALBANY<note n="*" place="margin">v. Albion's <hi>Elegie.</hi> p. <hi>9.</hi> l. <hi>13.</hi>
+                  </note> farewell'd,</l>
+               <l>With him call'd <hi>Home,</hi> sweates, with his welcome swell'd,</l>
+               <l>And now indulg'd to publish this new birth,</l>
+               <l>Travels with Raptures of exulting mirth;</l>
+               <l>That as<note n="†" place="margin">
+                     <hi>v. Albion</hi>'s Elegie. <hi>p.</hi> 7. <hi>l.</hi> 17.</note>
+                  <hi>Grief</hi> lately did me much annoy,</l>
+               <l>I now dread harm from <hi>extasies</hi> of <hi>Joy.</hi>
+               </l>
+               <l>Were not his cheerful looks and rosi'd breath,</l>
+               <l>An Antidote against all kinds of death:</l>
+               <l>Yet death is appetible after sight</l>
+               <l>Of Choicest object, killing by delight;</l>
+               <l>Then let my Pregnant <hi>Muse</hi> yield up the Ghost,</l>
+               <l>Since view'd her Countrie's happiness ingrost</l>
+               <l>In's <hi>presence;</hi>
+                  <note place="margin">Plutarch.</note>
+                  <hi>Euclees</hi>-like, who, when h' had brought</l>
+               <l>The news to <hi>Athens,</hi> that their Host had fought,</l>
+               <l>And did at <hi>Marathon</hi> victorious reigne,</l>
+               <l>From bursting <hi>Joy</hi> a word could hardly straine,</l>
+               <l>But <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; or thus,</l>
+               <l>Exult ye Citizens, 'tis well with us.</l>
+            </lg>
+            <lg>
+               <l>Now I'l license My <hi>Muse,</hi> her joys to vent,</l>
+               <l>
+                  <hi>Mirth</hi>'s unconfin'd, when all the SCOTS consent:</l>
+               <pb n="3" facs="tcp:205676:5"/>
+               <l>Let these be repute <hi>Rebels</hi> to their <hi>KING,</hi>
+               </l>
+               <l>Who won't concurr to <hi>laugh, play, dance,</hi> and <hi>sing.</hi>
+               </l>
+               <l>Our <hi>Sun</hi>'s return'd, let's, with the <hi>Marigold,</hi>
+               </l>
+               <l>While it its Leaves, our warmed <hi>hearts</hi> unfold;</l>
+               <l>An <hi>Heretick</hi> let him be alwayes held,</l>
+               <l>On whose heart's not ingraven, and not spell'd</l>
+               <l>In's<note n="†" place="margin">—Et blan<gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> statur gau<gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> vultu. Tunc dolor, a<g ref="char:EOLunhyphen"/>curae, rugaque frontis abit. O.</note> looks, a <hi>Cath'lick</hi> joy, and solemn jig,</l>
+               <l>For his most glad return; and let each <hi>Whig</hi>
+               </l>
+               <l>Renounce his steps precise, and squint ‡ aspect,</l>
+               <l>The sullen humour of a rigid <hi>Sect;</hi>
+               </l>
+               <l>Divest him of his counterfeit attire,</l>
+               <l>And bear a part joynt with the <hi>Loyal Quire:</hi>
+               </l>
+               <l>He's sure absurdly stupid, grosly wood,</l>
+               <l>
+                  <hi>Insensible of this great Common-good.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All dormant <hi>Jovial</hi> Mirth let's now excite,</l>
+               <l>Of publick <hi>Jubilee</hi> let's hatch the sp'rite;</l>
+               <l>All prodigally wasted smiles redeem,</l>
+               <l>That<note n="‖" place="margin">Tunc quo{que} ma<g ref="char:EOLhyphen"/>teriam risûs in<g ref="char:EOLhyphen"/>venit ad omnes Juve<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> all but one <hi>Democritus</hi> may seem,</l>
+               <l>At others peevish jealousie to laugh,</l>
+               <l>Who to be spruce and jolly think't unsafe.</l>
+               <l>Who don't descrie a most enforcing ground</l>
+               <l>The <hi>Globe Terrestrial</hi> with loud shouts to round;<note place="margin">Laetas tollunt ad sidera voces. Virg.</note>
+               </l>
+               <l>While th' motion of the Spheares it chaunts again,</l>
+               <l>The oecumenick <hi>joy</hi> to entertain.</l>
+               <l>Nor can the <hi>Voice</hi> our <hi>Gladness</hi> circumscribe,</l>
+               <l>On well-tun'd<note n="*" place="margin">Tibia{que} effudit socialia carmi<g ref="char:EOLhyphen"/>na vobis. Ovid.</note> Instruments let ev'ry Tribe,</l>
+               <l>The notes advance, the vocal <hi>Systeme</hi> aid;</l>
+               <l>So shall our <hi>Plaudits</hi> both be <hi>Sung</hi> and <hi>Plaid.</hi>
+               </l>
+               <l>And while we pipe, shall there be none to<note n="†" place="margin">Nunc pede li<g ref="char:EOLhyphen"/>bero pulsandae telis</note> dance,</l>
+               <l>As long's we learn to Capriol from <hi>France.</hi>
+               </l>
+               <l>Nor can the foot this Melody withstand,</l>
+               <l>But must proportion't to a <hi>Saraband.</hi>
+               </l>
+               <l>The consort by those can't be understood</l>
+               <l>
+                  <hi>Insensible of this great Common-good.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let <hi>Nature</hi> celebrate a<note n="‖" place="margin">Lux adest &amp; jam mea sitt Janthe. Ov. <hi>1.</hi> Met.</note>
+                  <hi>Marriage</hi>-day,</l>
+               <l>Each <hi>Tree</hi> be decked with the Verdant <hi>Bay,</hi>
+               </l>
+               <l>Each purling brook with trickling <hi>joys</hi> abound,</l>
+               <l>Th' ALBANIAN praise let all the <hi>Hills</hi> resound;</l>
+               <l>Let th' <hi>Earth</hi> be candi'd with a downy Robe,</l>
+               <l>And glide in squared measures round her Globe;</l>
+               <pb n="4" facs="tcp:205676:6"/>
+               <l>Let the day's <hi>Monarch</hi> shew a Glorious look,</l>
+               <l>And ev'ry Bird portend good to the <hi>DƲKE;</hi>
+               </l>
+               <l>Let Honour'd <hi>ALBION</hi> with fresh pleasures bloom,</l>
+               <l>And ev'ry thing applaud the blest <hi>Bridegroom.</hi>
+               </l>
+               <l>With <hi>Lyrick Odes</hi> let all the <hi>Ecchos</hi> ring,</l>
+               <l>And only shril <hi>Epithalamiums</hi> sing:</l>
+               <l>Let ev'ry <hi>Swain</hi> in floods of<note n="†" place="margin">Nunc solvere multo Nectare corda libet. Claud.</note>
+                  <hi>Nectars</hi> swim,</l>
+               <l>And all the <hi>Nymphs</hi> sing <hi>Serenades</hi> to him.</l>
+               <l>On genial <hi>Hearts</hi> let all solemnly feast,</l>
+               <l>Invite each merry front to be their <hi>Guest,</hi>
+               </l>
+               <l>Purveigh glad Company, and <hi>Royal</hi> fare,</l>
+               <l>A Bounteous <hi>Welcome</hi> to the <hi>Royal Heir:</hi>
+               </l>
+               <l>But let all <hi>Disaffected</hi> starve for food,</l>
+               <l>
+                  <hi>Insensible of this great Common-good.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Some sportive<note n="*" place="margin">In imitation of the <hi>Olympia</hi> instituted by <hi>Hercules</hi> in ho<g ref="char:EOLhyphen"/>nour of <hi>Jupiter.</hi>
+                  </note>
+                  <hi>Games</hi> let's also institute,</l>
+               <l>From thence our <hi>Joy</hi> to date, and years compute,</l>
+               <l>Thereby our active cunning to improve,</l>
+               <l>In honour of th' <hi>Olympick</hi>
+                  <note n="†" place="margin">Secundus a Re<g ref="char:EOLhyphen"/>ge.</note>
+                  <hi>second Jove.</hi>
+               </l>
+               <l>Then here all manly exercises haunt,</l>
+               <l>The <hi>Scots</hi> again of their<note n="†" place="margin">v. the Ana<g ref="char:EOLhyphen"/>gram in <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+                  <hi>Achilles</hi> vaunt.</l>
+               <l>Now let the fields be cur'd of their<note n="‖" place="margin">v. Albion's Elegie. p. <hi>7.</hi> l. <hi>19.</hi> and downwards.</note>
+                  <hi>Disease,</hi>
+               </l>
+               <l>Let Clubs be pliant, each rest be a tease</l>
+               <l>Unto the leaping Ball, and both accord</l>
+               <l>T' obey his nod, and pleasure to afford.</l>
+               <l>The coursing <hi>Horses,</hi> now be wing'd and flie,</l>
+               <l>And kindly on their noble <hi>Patron</hi> neigh;</l>
+               <l>In speed to strive fleet <hi>Pegasus</hi> to won,</l>
+               <l>While here a nobler <hi>Perseus</hi> looketh on.</l>
+               <l>Let the swift <hi>Footman</hi> run it in a trice,</l>
+               <l>More for to bribe the sport, then gain the prize;</l>
+               <l>And if he chance his faint heels to benight,</l>
+               <l>On <hi>JAMES</hi>'s quick eye reflect, and spurr his flight.</l>
+               <l>Let not <hi>Mars</hi> clients now at ruffles fret,</l>
+               <l>But on his Countenance their courage whet:</l>
+               <l>So did th' hearts of the jaded Souldiers, brook</l>
+               <l>A fresh recruit,<note place="margin">Plutarch.</note> from glad <hi>Clearchus</hi> look.</l>
+               <l>Nor need the brisk <hi>Comedians</hi> cups of Sack,</l>
+               <l>Being no more thund'ring <hi>Tragedies</hi> to act;</l>
+               <l>But let them trick a <hi>Comick</hi> Argument</l>
+               <l>Fit for the season, which may represent</l>
+               <pb n="5" facs="tcp:205676:6"/>
+               <l>Th'<note n="‖" place="margin">
+                     <gap reason="illegible" resp="#uom" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+                  <hi>ALBANIA,</hi> or <hi>Scots</hi> festival day,</l>
+               <l>While their own melting <hi>Joy</hi> sets off the play▪</l>
+               <l>Let <hi>Vertue, Love,</hi> and <hi>Honour,</hi> all exhort</l>
+               <l>The <hi>Beauteous Madams,</hi> to frequent the <hi>Court,</hi>
+               </l>
+               <l>Where the sole<note n="*" place="margin">
+                     <gap reason="illegible" resp="#uom" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Highness.</note> Pattern Nature seems to show</l>
+               <l>Of all the gifts she did, or will bestow</l>
+               <l>On their enam'ring <hi>Sex,</hi> that others may</l>
+               <l>
+                  <hi>Her</hi> only honour, and due homage pay:</l>
+               <l>Here of their <hi>Joy,</hi> these both may let <hi>Her</hi> taste,</l>
+               <l>And with well ord'red Steps, <hi>Her Welcome</hi> cast.</l>
+               <l>Now let our <hi>Heroes</hi> others far excell,</l>
+               <l>While ther's a<note n="*" place="margin">Ardua Vi<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tutem praefert via pergite Primi.</note>
+                  <hi>MOƲNT</hi> to scale, a<note n="†" place="margin">Mecum honor &amp; laudes. Silius. Ital. lib. <hi>15.</hi> bell. pun.</note>
+                  <hi>ROSE</hi> to smell,</l>
+               <l>Here let them sympathize with well-tun'd feet,</l>
+               <l>With <hi>Courteous Welcome</hi> this fam'd <hi>Hero</hi> greet.</l>
+            </lg>
+            <lg>
+               <l>Let all the <hi>Poets</hi> on his <hi>Welcome</hi> dwell,</l>
+               <l>Till they have drained the <hi>Castalian</hi> well;</l>
+               <l>With sprightly verse, and lofty numbers reel,</l>
+               <l>And only joyful <hi>Enthusiasms</hi> feel.</l>
+               <l>Lo my glad <hi>Muse,</hi> from swooning fits reviv'd,</l>
+               <l>Throngs in among the crew; since now retriv'd</l>
+               <l>Her great <hi>Mecaenas</hi> and immortal Theame,</l>
+               <l>From which nought can be squeez'd, but flow'ry <hi>Cream;</hi>
+               </l>
+               <l>And when the oyl is spent, the vessels fill'd,</l>
+               <l>The more sh'extracts, more rests to be distill'd.</l>
+               <l>So if in Divine Mysteries you dive,<note place="margin">
+                     <hi>Simonides</hi> de Deo.</note>
+               </l>
+               <l>You'l at the less intelligence arrive.</l>
+               <l>Then if I sound this deep with shallow <hi>Rhime,</hi>
+               </l>
+               <l>It speaks me <hi>Loyal</hi> tho I find not <hi>Him.</hi>
+               </l>
+               <l>The paper hit, the <hi>Archer</hi> well acquites</l>
+               <l>Himself, tho he the narrow prick ne'r splites;</l>
+               <l>The man's thought honest, who, his name to score</l>
+               <l>Unable, yields up to his creditor</l>
+               <l>His person; and the other should exact</l>
+               <l>No more, then what the debitor can stack.</l>
+               <l>What Pen dare on his lavish <hi>Fame</hi> encroach,</l>
+               <l>And give him all his due without reproach,</l>
+               <l>Unless he turn<note n="†" place="margin">Sussenus.</note> self-Lover, and admire</l>
+               <l>His own works, wherewith others feed the fire.</l>
+               <l>Who can his <hi>Laureat</hi> conquests <hi>Eccho</hi> forth,</l>
+               <l>Or raise fit Trophies to <hi>Achilles</hi> worth?</l>
+               <pb n="6" facs="tcp:205676:7"/>
+               <l>As when the <hi>Sun</hi> hath lodg'd in all the signs,</l>
+               <l>Run through the <hi>Zodiack,</hi> he afresh begins,</l>
+               <l>To trace his steps again, and never stayes</l>
+               <l>To bound his Journey, nor contract his rayes.</l>
+               <l>Ev'n so <hi>He</hi> doth his<note n="*" place="margin">Laudataque virtus crescit. Ov. l. <hi>4.</hi> El. <hi>2</hi>
+                  </note>
+                  <hi>Vertues</hi> still improve,</l>
+               <l>These are the Spheare wherein the <hi>Poets</hi> move,</l>
+               <l>And when they have each sacred <hi>Vertue</hi> touch'd,</l>
+               <l>Soaring on th' wings of <hi>Poesie</hi> well couch'd,</l>
+               <l>To pay another visit still they'r faine,</l>
+               <l>As if some thing unblazon'd did remain.</l>
+            </lg>
+            <lg>
+               <l>Hither let all the Universe resort,</l>
+               <l>And view the <hi>Man</hi> that makes a glorious <hi>Court,</hi>
+               </l>
+               <l>Whose happy presence Courtly strife excludes,</l>
+               <l>Makes all preferr the <hi>Court</hi> to solitudes.</l>
+               <l>Whom all admire, and strive to imitate</l>
+               <l>In watchful <hi>Industry,</hi> and sober state.</l>
+               <l>In whose accomplish'd features all detect</l>
+               <l>Grave<note n="*" place="margin">Majestas adeo comis ubique tua est. Ov. <hi>2.</hi> Trist.</note>
+                  <hi>Majesty,</hi> and a benign <hi>Aspect:</hi>
+               </l>
+               <l>Whose<note n="†" place="margin">Aspice quid faciant commer<g ref="char:EOLhyphen"/>cia. Juven. Sat. <hi>2.</hi>
+                  </note>
+                  <hi>Converse</hi> stands not only to b'admir'd,</l>
+               <l>But as the certain rule of ours desir'd.</l>
+               <l>By whose Divine <hi>Idea</hi> we may draw</l>
+               <l>All <hi>Worth;</hi> and from<note n="‖" place="margin">Duo nos ma<g ref="char:EOLhyphen"/>xime movent similitudo &amp; exemplum. Cic. de Orat. <hi>3.</hi>
+                  </note>
+                  <hi>Example,</hi> more then Law,</l>
+               <l>Mature and savoury Instructions glean,</l>
+               <l>And square our Actions by the <hi>Golden meane.</hi>
+               </l>
+               <l>
+                  <note n="*" place="margin">Non illi quis<g ref="char:EOLhyphen"/>quam bello se conferat heros. Catul.</note>
+                  <hi>Heroick</hi> Courage, and feats <hi>Martial</hi> seem</l>
+               <l>T'have sown their Sp'rits in him, to reap esteem;</l>
+               <l>Nay to have been a doubtful started plea,</l>
+               <l>Design'd for him to vindicate at <hi>Sea,</hi>
+               </l>
+               <l>To carve out for himself <hi>Supreame Command,</hi>
+               </l>
+               <l>And <hi>Lord</hi> it over both the <hi>Sea</hi> and <hi>Land;</hi>
+               </l>
+               <l>As if <hi>Obeysance</hi> did pursue his <hi>Word,</hi>
+               </l>
+               <l>And <hi>Victory</hi> were ti'd unto his <hi>Sword.</hi>
+               </l>
+               <l>The <hi>Graces,</hi> and the <hi>Vertues</hi> here unpatch'd</l>
+               <l>Raign, and dart pow'rful Influence, while well-match'd</l>
+               <l>With <hi>Royal Honour,</hi> which might henceforth hush</l>
+               <l>The huffs of <hi>Malice,</hi> and make <hi>Errour</hi> blush.</l>
+               <l>Hath <hi>Honour</hi> and our <hi>Good</hi> (could we it scent)</l>
+               <l>Again us <hi>ALBANIE</hi>'s wish'd presence lent;</l>
+               <l>Let's not so curious be, so bold's to pry</l>
+               <l>Into the<note place="margin">Exquirere <gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ditos princi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> sensus illici<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#uom" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> &amp; anceps.</note> Myst'ries of <hi>State-Policy.</hi>
+               </l>
+               <pb n="7" facs="tcp:205676:7"/>
+               <l>Who can arraign, or but in question bring.<note place="margin">
+                     <hi>Eccl. c. 8. v. 4</hi> Principl leges nemo scripsit; l<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cet si libet. Plin.</note>
+               </l>
+               <l>Th' indiff'rent Actions of an awful <hi>King.</hi>
+               </l>
+               <l>Let no rude currish Clown, out of despight,</l>
+               <l>Presume to snarle at <hi>Person, fame,</hi> or <hi>right.</hi>
+               </l>
+               <l>Nor <hi>Faction</hi> his designs misrepresent,</l>
+               <l>Or frame against him a <hi>Rump-Parliament;</hi>
+               </l>
+               <l>To forge new <hi>Grievances,</hi> his meaning wrest,</l>
+               <l>By noising still the Gangrene of the <hi>Beast.</hi>
+               </l>
+               <l>Why do ye dang'rous <hi>Innovations</hi> dread?</l>
+               <l>Have ye not his own <hi>Manifesto</hi> read;</l>
+               <l>Wherein it pleas'd him to protest, and swear</l>
+               <l>By th' Honour of a <hi>Prince,</hi> which is most dear;</l>
+               <l>Nay by his <hi>Faith</hi> the <hi>Faithful</hi> did assure,</l>
+               <l>Th' establish'd <hi>Hierarchy</hi> to secure,</l>
+               <l>The ancient Priviledges to defend</l>
+               <l>From Forreign inrod, or Domestick Fiend:</l>
+               <l>Only at the same liberty he aimes,</l>
+               <l>Which ev'ry Sect, for <hi>Conscience</hi>-sake, still claimes;</l>
+               <l>This, <hi>Impudence</hi> could not have e'r refus'd,</l>
+               <l>Else from<note n="*" place="margin">v. The Con<g ref="char:EOLhyphen"/>fession of Faith, Ch. <hi>28.</hi> Sect. <hi>4.</hi>
+                  </note>
+                  <hi>Confession</hi> such might be accus'd.</l>
+               <l>No petty Clerk denies to <hi>Pagan Kings</hi>
+               </l>
+               <l>A just <hi>Authority</hi> in <hi>Civil</hi> things;</l>
+               <l>And the <hi>Kings</hi> pow'r, in <hi>Sacred</hi> things, springs not</l>
+               <l>From <hi>Christian,</hi> but from <hi>Sov'raign</hi> right is got.</l>
+               <l>The <hi>English Presbyterians,</hi> on this point,</l>
+               <l>Assert, that Heathen <hi>Kings,</hi> whom Gods anoint,</l>
+               <l>A <hi>Christian Church</hi> can well protect, and may</l>
+               <l>Order the same in a <hi>Politick</hi> way.</l>
+               <l>Who e'r did censure th' Heathen<note n="*" place="margin">
+                     <hi>Constantine</hi> the great.</note>
+                  <hi>Emperour,</hi>
+               </l>
+               <l>Who unbaptiz'd, did exercise his pow'r</l>
+               <l>In <hi>Church</hi>-affairs, nay was by all approv'd,</l>
+               <l>Who the calm Discipline of <hi>Christians</hi> lov'd.</l>
+               <l>But here ye can't intend such just complaint</l>
+               <l>'Gainst both a <hi>Christian Prince,</hi> and better <hi>Saint,</hi>
+               </l>
+               <l>Then those, whose <hi>Strictness</hi> paint them more upright,</l>
+               <l>And still pretend unto a greater light.</l>
+               <l>But might the <hi>Gods</hi> with outward forms dispense,</l>
+               <l>Or him perswade, <hi>Protestant</hi> to commence,</l>
+               <l>Nor would he thereby from the <hi>Truth</hi> estrange,</l>
+               <l>But, for the same, with <hi>Peace</hi> and <hi>Love</hi> exchange;</l>
+               <l>'Twould both all mouths with publick shoutings fill,</l>
+               <l>And the rath <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the <hi>People</hi>
+                  <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <pb n="8" facs="tcp:205676:8"/>
+               <l>But if he shall proceed in the same road,</l>
+               <l>Which many of his great <hi>Ancestors</hi> trod;</l>
+               <l>The <hi>Royal Spring,</hi> let none be so mal<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pert,</l>
+               <l>Out of its proper Channel to divert;</l>
+               <l>Nor the <hi>Succession Regal</hi> circumvent,</l>
+               <l>But settle in its <hi>Legal Right Descent.</hi>
+               </l>
+               <l>Did not the sacred <hi>Pow'rs</hi> offended raze</l>
+               <l>The <hi>Pictish</hi> Natione, 'cause they did displace</l>
+               <l>The <hi>Righteous</hi>
+                  <note n="‖" place="margin">Alpine.</note>
+                  <hi>Heir,</hi> subverting the true <hi>Base.</hi>
+               </l>
+               <l>The <hi>English</hi> would not any<note n="*" place="margin">L. Jean Gray.</note>
+                  <hi>She</hi> admit,</l>
+               <l>When<note n="†" place="margin">King <hi>Edward 6.</hi> obtained by Act of Parlia<g ref="char:EOLhyphen"/>ment, the choice of his successour</note> nam'd, on the Imperial Throne to fit,</l>
+               <l>In prejudice of<note n="‖" place="margin">Queen <hi>Mary.</hi> Tali &amp; constan<g ref="char:EOLhyphen"/>te veneratione nos— Reges le<g ref="char:EOLhyphen"/>gittimos prose<g ref="char:EOLhyphen"/>quimur. <hi>Ang. Histor.</hi>
+                  </note>
+                  <hi>Her,</hi> tho <hi>Papist</hi> known,</l>
+               <l>Yet true <hi>Successour</hi> of the <hi>Royal</hi> CROWN.</l>
+               <l>If the two<note n="*" place="margin">Nam saepe du<g ref="char:EOLhyphen"/>obus Regibus in<g ref="char:EOLhyphen"/>cessit magno discordia motu. Verum ubi du<g ref="char:EOLhyphen"/>ctores acie re<g ref="char:EOLhyphen"/>vocaveris am<g ref="char:EOLhyphen"/>bos, Deterior qui visus eum ne prodigus ob<g ref="char:EOLhyphen"/>sit, dede neci melior vacuâ si<g ref="char:EOLhyphen"/>ne regnet in au<g ref="char:EOLhyphen"/>lâ. <hi>Virg. Geor.</hi> lib. <hi>4.</hi>
+                  </note>
+                  <hi>Master-Bees</hi> of the same hive,</l>
+               <l>For th' empire of the waxen Kingdom strive,</l>
+               <l>Lo, when from Battel both <hi>Kings</hi> are recall'd,</l>
+               <l>The nobler <hi>Chieftain-Bee</hi> is straight install'd,</l>
+               <l>And in the empty <hi>Palace</hi> Reigns alone,</l>
+               <l>While th' other's thrust out, as a low inglorious drone.</l>
+               <l>Should we our selves as firmly <hi>Loyal</hi> vent,</l>
+               <l>And when it comes to pass the test, relent.</l>
+               <l>When <hi>Gracious</hi> CHARLES his true <hi>Successour</hi> notes,</l>
+               <l>Shall we make use of <hi>Cautions,</hi> or of <hi>Votes:</hi>
+               </l>
+               <l>Lo when, to <hi>JAMES,</hi> our duty thus we mince,</l>
+               <l>We so empair <hi>Allegiance</hi> to our <hi>Prince;</hi>
+               </l>
+               <l>For<note n="*" place="margin">Quo res cun<g ref="char:EOLhyphen"/>que cadent unum &amp; commune pe<g ref="char:EOLhyphen"/>riclum una salus ambobus erit. <hi>Vir. Aene. l. 2.</hi>
+                  </note> whatsoever way the matters go,</l>
+               <l>Both are <hi>Co-partners</hi> of the well, or woe.</l>
+            </lg>
+            <lg>
+               <l>Have we recov'red now our <hi>Tutelar,</hi>
+               </l>
+               <l>Our stoln<note n="‖" place="margin">
+                     <hi>v.</hi> Albion's Elegy. <hi>p.</hi> 4. <hi>l.</hi> 4.</note>
+                  <hi>Palladium;</hi> then let's all beware,</l>
+               <l>That we, by honi'd <hi>Baits,</hi> be not ensnar'd,</l>
+               <l>But strictly round him with a frequent<note n="*" place="margin">Stipantque frequentes. Virg.</note>
+                  <hi>Guard.</hi>
+               </l>
+               <l>From privat rap within our breasts to hide,</l>
+               <l>And by our <hi>Ʋnion</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#uom" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> Shoulder off the tide,</l>
+               <l>'Twixt him and open danger t' interpose</l>
+               <l>Our ready and hard <hi>Bodies,</hi> freely chose</l>
+               <l>In our own flesh the impious <hi>Sword</hi> to sheath,</l>
+               <l>And in a just <hi>Cause</hi> seek a glorious <hi>Death.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When ev'ry man had chosen his own * Doom,</l>
+               <l>
+                  <hi>To hope abroad,</hi> and <hi>to dispair at home,</hi>
+               </l>
+               <l>Your tedious <hi>Absence</hi> long had fed our <hi>Grief,</hi>
+               </l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#uom" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>&amp;</hi> 6.</note>No eye to pity, nor hope of relief;</l>
+               <pb n="9" facs="tcp:205676:8"/>
+               <l>Then you the fit hour for a visit catch'd,</l>
+               <l>And for our succour your own rayes dispatch'd;</l>
+               <l>Which in our dark <hi>Horizon</hi> straight are seen,</l>
+               <l>And heale the wound they gave, while yet but green.</l>
+               <l>Then sure your <hi>Advent, ROYAL</hi> SIR, inserts</l>
+               <l>A welcome <hi>Epoch</hi> in all <hi>Loyal</hi> hearts.</l>
+               <l>Who cannot chuse, but emulously strive,</l>
+               <l>Which should the best, and most kind <hi>Welcome</hi> give;</l>
+               <l>You, when at <hi>Home,</hi> with duteous<note n="†" place="margin">Et levis hae<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> meritis refera<g ref="char:EOLhyphen"/>tur gratia tan<g ref="char:EOLhyphen"/>tis. <hi>Ov.</hi>
+                  </note>
+                  <hi>Thanks,</hi> to load,</l>
+               <l>Who honour'd us, with perfect <hi>Love, Abroad;</hi>
+               </l>
+               <l>Us highly to our <hi>Sov'raign Lord</hi> extoll'd,</l>
+               <l>'Mongst his most Faithful <hi>Subjects</hi> us enroll'd:</l>
+               <l>Shall we these signal <hi>Favours</hi> now forget?</l>
+               <l>Our lips seale, and neglect to pay our debt.</l>
+            </lg>
+            <lg>
+               <l>Tho lawless <hi>Boors</hi> should insolently prat,</l>
+               <l>And still exclaim against they know not what;</l>
+               <l>Tho some of higher rank should now give o'r</l>
+               <l>And pay not <hi>Suite</hi> and <hi>Presence,</hi> as before;</l>
+               <l>Yet let not this, <hi>GREAT</hi> SIR, discourage you,</l>
+               <l>Nor from thence judge the <hi>Loyal</hi> to be few:</l>
+               <l>For <hi>These</hi> all things dislike, and have a prick.</l>
+               <l>T' oppose the <hi>Pow'rs,</hi> and spurne against the prick.</l>
+               <l>In their own dye the <hi>Latter</hi> soon appear,</l>
+               <l>To change their minds, as th'<note n="‖" place="margin">Chamelion</note> Air-fed beast, by fear,</l>
+               <l>His colour alters; to be <hi>Fortunes</hi> Apes,</l>
+               <l>And with the times to vary in all shapes.</l>
+               <l>So the most precious <hi>Sun's</hi> regarded less</l>
+               <l>By those, to whom he daily makes address;</l>
+               <l>But where he enters <hi>Stranger,</hi> his arise</l>
+               <l>Gets a kind <hi>Welcome</hi> from all glaring eyes.</l>
+               <l>To you, <hi>GREAT</hi> SIR,<note n="*" place="margin">Constant in Loyalty.</note> we offer up the Key</l>
+               <l>Of our close bow'rs, may't please you to survey</l>
+               <l>Our breasts; and of a <hi>Scots</hi> heart take a view,</l>
+               <l>As<note n="‖" place="margin">Parvum Corau. dacium gignit.</note> small as any <hi>English,</hi> and as true.</l>
+               <l>Here your dear <hi>Memory</hi> shall be inshrin'd,</l>
+               <l>And deep impression bear upon our mind;</l>
+               <l>Here, what transported <hi>Tongues</hi> cannot express,</l>
+               <l>'Tis legible, and in a better dress</l>
+               <l>Then my obedient <hi>Muse</hi> can ere digest:</l>
+               <l>But to the<note n="†" place="margin">v. The Coun<g ref="char:EOLhyphen"/>cils Letter to the King.</note>
+                  <hi>Chanc'lour</hi> I referr the rest.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
